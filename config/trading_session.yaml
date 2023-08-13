@@ -1,0 +1,11 @@
+account:
+  assets:
+    - name: BTC
+      amount: 0.01
+      buy_avg: 27500.00
+    - name: ETH
+      amount: 0.1
+      buy_avg: 1650.0
+    - name: BNB
+      amount: 1
+      buy_avg: 200
